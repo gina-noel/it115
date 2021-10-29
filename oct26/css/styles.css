@@ -1,0 +1,33 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background: orange;
+}
+
+#wrapper {
+    width: 940px;
+    margin: 20px auto;
+}
+
+header {
+    height: 200px;
+    background: purple;
+}
+
+main {
+    height: 400px;
+    background: #ccc;
+}
+
+aside {
+    height: 300px;
+    background: #ddd;
+}
+
+footer {
+    height: 50px;
+    background: #000;
+}
